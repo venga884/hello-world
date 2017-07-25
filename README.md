@@ -1,2 +1,3 @@
 # hello-world
 1st lesson
+I want to understand GITHUB. Now learning....
